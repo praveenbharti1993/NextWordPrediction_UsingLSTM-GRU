@@ -1,0 +1,1 @@
+I have used the Hamlet dataset to predict the next word in a sentence. I have used LSTM RNN and GRU to predict it. GRU worked better than the LSTM RNN. I have run 50 epochs for both the model and the accuracy for the lSTM was 44% and GRU was 72%. If we increase the epochs accuracy will increase more.
